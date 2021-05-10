@@ -2,21 +2,21 @@
 
 ## What is SQL ?
 
-> SQL is a database computer language designed for the retrieval and management of data in a relational database.
+* SQL is a database computer language designed for the retrieval and management of data in a relational database.
 
-> SQL stands for Structured Query Language.
+* SQL stands for Structured Query Language.
 
 ## Applications Of SQL
 
-> Allows users to access data in the relational database management systems.
+* Allows users to access data in the relational database management systems.
 
-> Allows users to describe the data.
+* Allows users to describe the data.
 
-> Allows users to define the data in a database and manipulate that data.
+* Allows users to define the data in a database and manipulate that data.
 
-> Allows to embed within other languages using SQL modules, libraries & pre-compilers.
+* Allows to embed within other languages using SQL modules, libraries & pre-compilers.
 
-> Allows users to create and drop databases and tables.
+* Allows users to create and drop databases and tables.
 
 ## A Brief History of SQL
 
